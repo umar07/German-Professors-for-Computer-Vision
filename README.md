@@ -132,6 +132,16 @@
 - [Xiaoyi Jiang](https://www.uni-muenster.de/PRIA/en/personen/jiang.shtml)
 - [Dimitri Berh](https://www.uni-muenster.de/Informatik.AGRisse/people/berh.html)
 
+### Fraunhoffer HHI
+- [Anna Hilsmann](http://iphome.hhi.de/hilsmann/)
+
+### University of Frankfurt
+- [Hilde Kuehne](https://hildekuehne.github.io/)
+
+### Max Planck Institute
+- [Mohamed Elgharib](https://people.mpi-inf.mpg.de/~elgharib/)
+
+
 ****
 
 **NOTE:** If someone wishes to add more names to this list, please feel free to send a pull request. Make sure you have written in the same format as the rest of the content. For eg: MPI is not in the list here, so that can be added.
